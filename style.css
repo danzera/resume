@@ -22,6 +22,9 @@ ul {
 .all {
   font-family: 'Century Gothic', sans-serif;
   background-color: #dfdfdf;
+  margin-top: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 .education {
