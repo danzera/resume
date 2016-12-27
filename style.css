@@ -22,9 +22,12 @@ ul {
 .container {
   font-family: 'Century Gothic', sans-serif;
   background-color: #dfdfdf;
+  
   margin-top: 20px;
   margin-left: 100px;
   margin-right: 100px;
+  
+  width: 1000px;
   padding: 10px 100px 10px 100px;
 }
 
