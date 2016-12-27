@@ -3,28 +3,20 @@ h1 {
 }
 
 h2 {
-  font-family: 'Century Gothic', sans-serif;
   border-bottom: solid 1px;
   margin-bottom: -20px;
 }
 
 h3 {
-  font-family: 'Century Gothic', sans-serif;
   margin-bottom: -15px;
 }
 
 p {
-  font-family: 'Century Gothic', sans-serif;
   margin-bottom: -15px;
 }
 
 ul {
-  font-family: 'Century Gothic', sans-serif;
   margin-bottom: -15px;
-}
-
-li {
-  font-family: 'Century Gothic', sans-serif;
 }
 
 .all {
