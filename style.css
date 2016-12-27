@@ -19,6 +19,10 @@ ul {
   margin-bottom: -15px;
 }
 
+li {
+  width: 800px;
+}
+
 .container {
   font-family: 'Century Gothic', sans-serif;
   background-color: #dfdfdf;
@@ -32,7 +36,7 @@ ul {
 }
 
 .summary {
-  max-width: 500px;
+  width: 800px;
 }
 
 .education {
