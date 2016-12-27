@@ -20,7 +20,7 @@ ul {
 }
 
 li {
-  width: 800px;
+  width: 775px;
 }
 
 .container {
@@ -29,12 +29,12 @@ li {
   
   margin: auto;
 
-  width: 850px;
+  width: 825px;
   padding: 10px 100px 10px 100px;
 }
 
 .summary {
-  width: 800px;
+  width: 775px;
 }
 
 .education {
