@@ -28,8 +28,8 @@ li {
   background-color: #dfdfdf;
   
   margin-top: 20px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 100px auto;
+  margin-right: 100px auto;
   
   width: 1000px;
   padding: 10px 100px 10px 100px;
