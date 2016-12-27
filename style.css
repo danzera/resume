@@ -5,6 +5,7 @@ h1 {
 
 h2 {
   font-family: 'Century Gothic', sans-serif;
+  border-bottom: solid;
   margin-bottom: -20px;
 }
 
