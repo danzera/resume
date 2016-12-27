@@ -10,10 +10,14 @@ h2 {
 
 h3 {
   font-family: 'Century Gothic', sans-serif;
-  margin-bottom: -20px;
+  margin-bottom: -15px;
 }
 
-p {
+ul {
+  font-family: 'Century Gothic', sans-serif;
+}
+
+li {
   font-family: 'Century Gothic', sans-serif;
 }
 
