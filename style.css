@@ -33,6 +33,10 @@ li {
   padding: 10px 100px 10px 100px;
 }
 
+.personal_summary {
+  margin-top: 30px;
+}
+
 .summary {
   width: 775px;
 }
